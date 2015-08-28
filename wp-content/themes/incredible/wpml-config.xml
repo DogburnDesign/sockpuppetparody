@@ -1,0 +1,46 @@
+<wpml-config> 
+<admin-texts>
+ <key name="incredible_theme_options">
+	<!-- Slider options -->
+	  <key name="slide_title_1" />
+	  <key name="slide_title_2" />
+	  <key name="slide_title_3" />
+	  <key name="slide_desc_1" />
+	  <key name="slide_desc_2" />
+	  <key name="slide_desc_3" />
+	  <key name="slide_btn_text_1" />
+	  <key name="slide_btn_text_2" />
+	  <key name="slide_btn_text_3" />
+	  <!-- Portfolio options -->
+	    <key name="port_heading" />
+	  <key name="port_desc" />
+	  <key name="port_1_title" />
+	  <key name="port_2_title" />
+	  <key name="port_3_title" />
+	  <key name="port_4_title" />
+	  <key name="port_1_text" />
+	  <key name="port_2_text" />
+	  <key name="port_3_text" />
+	  <key name="port_4_text" />
+	  <!-- Service options -->
+	  <key name="home_feature_title" />
+	  <key name="home_feature_desc" />
+	  <key name="feature_1_title" />
+	  <key name="feature_2_title" />
+	  <key name="feature_3_title" />
+	  <key name="feature_1_text" />
+	  <key name="feature_2_text" />
+	  <key name="feature_3_text" />
+	  <!-- Callout options -->
+	  <key name="fc_title" />
+	  <key name="fc_desc" />
+	  <!-- footer customization -->
+	  <key name="footer_customizations" />
+	  <key name="developed_by_text" />
+	  <key name="developed_by_weblizar_text" />
+	  <!-- Blog options -->
+	  <key name="blog_title" />
+	  <key name="blog_desc" />
+  </key>
+</admin-texts>
+</wpml-config>

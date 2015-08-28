@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Sock Puppet Parody
+ Theme URI:    http://dogburndesign.com
+ Description:  Sock Puppet Parody's Website Theme
+ Author:       DJ Wilkerson
+ Author URI:   http://dogburndesign.com
+ Template:     incredible
+ Version:      1.0.0
+ Tags:         black, blue, gray, red, dark, light, silver, white, green, brown, two-columns, three-columns, four-columns, custom-menu, right-sidebar, fixed-layout, fluid-layout, custom-background, featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, flexible-header, responsive-layout, translation-ready
+ Text Domain:  incredible
+*/
+
+.sp-grab, .sp-swiping{
+    margin-top:-20px !important;
+}
